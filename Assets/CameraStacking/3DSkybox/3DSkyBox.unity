@@ -1146,6 +1146,7 @@ GameObject:
   - component: {fileID: 1854108593}
   - component: {fileID: 1854108592}
   - component: {fileID: 1854108591}
+  - component: {fileID: 1854108594}
   m_Layer: 1
   m_Name: SkynetCamera
   m_TagString: Untagged
@@ -1271,6 +1272,18 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+--- !u!114 &1854108594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1854108589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 578f3f5b8af994b39a965322bcaa2aa8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1920651980
 GameObject:
   m_ObjectHideFlags: 0
