@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 81843234}
   - component: {fileID: 81843233}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: AutoloadURPAsset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -251,13 +251,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 541513926}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.03051898, y: -0.9616067, z: -0.11977445, w: -0.245021}
-  m_LocalPosition: {x: 0.59, y: -3.9, z: -9.48}
+  m_LocalRotation: {x: 0.00017913767, y: -0.9975836, z: 0.021000417, w: -0.06622651}
+  m_LocalPosition: {x: 10.6, y: -1.04, z: -9.48}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -14.2, y: -208.59, z: 0}
+  m_LocalEulerAnglesHint: {x: 2.4, y: -187.6, z: -0.18}
 --- !u!114 &541513930
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -281,7 +281,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
-  m_RenderPostProcessing: 0
+  m_RenderPostProcessing: 1
   m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 0
